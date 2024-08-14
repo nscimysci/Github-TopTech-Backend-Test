@@ -1,0 +1,6 @@
+@Github_TopTech_Backend_Test_HostAddress = http://localhost:5105
+
+GET {{Github_TopTech_Backend_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
